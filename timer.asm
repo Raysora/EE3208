@@ -2,7 +2,7 @@ $MOD186
 NAME TIMER
 ; Main program for uPD70208 microcomputer system
 ;
-; Author: 	Dr Tay Teng Tiow
+; Author: 	Ong Zibin
 ; Address:     	Department of Electrical Engineering
 ;         	National University of Singapore
 ;		10, Kent Ridge Crescent
